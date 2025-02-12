@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **spring boot releted**
 
-- 👯 I’m looking to collaborate on **hostel sathi a hostel providing hackthon**
+- 👯 I’m looking to collaborate on **hostel sathi a hostel providing hostel**
 
 - 💬 Ask me about **springboot ,java,database**
 
 - 📫 How to reach me **ayushdot123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:ayushdot123@gmail.com</h3>
 <p align="left">
 </p>
 
