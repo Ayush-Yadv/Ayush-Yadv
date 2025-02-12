@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-yadv&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-yadv" /> </p>
 
-- 🔭 I’m currently working on **spring boot releted**
+- 🔭 I’m currently working on **spring boot project**
 
 - 👯 I’m looking to collaborate on **hostel sathi a hostel providing hostel**
 
